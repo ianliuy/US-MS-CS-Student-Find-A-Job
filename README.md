@@ -27,7 +27,7 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 
 而找实习是有面试要求的，开始刷leetcode可能要更早，大约在**5月**就可以准备了。
 
-**意味着**：你1月份申请美国大学，4月份拿到offer，5月份开始刷题，7月你本科大学毕业，大学毕业的时候就是你开始找flag员工内推的时候。真实。
+**意味着**：你1月份申请美国大学，4月份拿到offer，5月份开始刷题，7月中旬你本科大学毕业，**大学毕业的时候就是你可以开始找flag员工内推的时候**。真实。
 
 那些刚刚Master入学，9/10月份就拿到明年intern offer的同学就是这么干的。
 
