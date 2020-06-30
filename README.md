@@ -1,7 +1,7 @@
 # US-MS-CS-Student-Find-A-Job
 A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT policies and so on!
 
-## 1. 找实习常识
+## 1. 找实习/工作常识
 
 *“The people who fail to plan is planning to fail.” - Benjamin Franklin*
 
@@ -29,7 +29,7 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 
 那些刚刚Master入学9/10月份就拿到明年intern offer的同学就是这么干的。
 
-hierarchy: 美国大公司实习＞美国小公司实习＞国内知名企业实习＞＞＞学校RA/TA
+**hierarchy**: 美国大公司实习＞美国小公司实习＞国内知名企业实习＞＞＞学校RA/TA
 
 ## 2. Timeline：以21fall，2年项目为例
 
