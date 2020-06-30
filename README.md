@@ -29,7 +29,7 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 
 **意味着**：你1月份申请美国大学，4月份拿到offer，5月份开始刷题，7月中旬你本科大学毕业，**大学毕业的时候就是你可以开始找flag员工内推的时候**。真实。
 
-那些刚刚Master入学，9/10月份就拿到明年intern offer的同学就是这么干的。
+那些刚刚Master入学9/10月份就拿到明年intern offer的同学就是这么干的。
 
 hierarchy: 美国大公司实习＞美国小公司实习＞国内知名企业实习＞＞＞学校RA/TA
 
@@ -57,13 +57,16 @@ hierarchy: 美国大公司实习＞美国小公司实习＞国内知名企业实
 
 * 5月后 毕业 **full-time**
 
+注：详细时间可以参考校历
+https://academics.usc.edu/calendar/academic-calendar-2021-2022/ ，不同学校有不同规定。
 ```
 一次实习，一次全职，好像很完美。
 但是这个过程是不完整的，
 只有工作，没有体现出找工作的过程
+参考价值不高。
 ```
 
-## 3. 添加找工作过程的 例子：21 Fall的Timeline
+## 3. 添加找工作过程的 Timeline 以21fall为例
 
 ### 21年
 
