@@ -1,6 +1,12 @@
 # US-MS-CS-Student-Find-A-Job
 A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT policies and so on!
 
+----
+
+# 地里的小伙伴们 baba mama们 给个star或fork吧。。。求求啦
+
+----
+
 ## 1. 找实习/工作常识
 
 *“The people who fail to plan is planning to fail.” - Benjamin Franklin*
@@ -219,4 +225,9 @@ A基本不用尝试了，大概率是**找不到**工作的，且不论到了11�
 
 *“Remember the Golden Rule: Those who have the gold make the rules.” - American Proverb*
 
+----
+
+# 地里的小伙伴们 baba mama们 给个star或fork吧。。。求求啦
+
+----
 
