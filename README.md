@@ -20,6 +20,31 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 >亚麻8月8号放出new grad职位，记得很清楚，当天晚上地里大量内推贴，8.30号亚麻发出第一批oa，deadline是9月15号左右。
 >
 >当然也不是说你11月开始找就找不到，能早就早。不管是在实习还是干嘛，消息灵通点并且能随时投入战斗就行了。
+>
+>> 我的补充：19年大约在8月末放出New Grad岗位
+>>
+>>请自行搜索"New Grad" + "内推" + "岗位 开放" 等关键词 + "site:1point3acres.com"，必要时使用google的search tools来restrict time.
+>>
+>> Vmware: 19年7月底 https://www.1point3acres.com/bbs/thread-540378-1-1.html
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_114407.png)
+>>
+>> Uber: 19年9月初 https://www.1point3acres.com/bbs/thread-547399-1-1.html
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_115317.xn9kgw5lf6.png)
+>>
+>> Lyft: 19年8月末 https://www.1point3acres.com/bbs/thread-545351-1-1.html
+>>![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_115438.fpmsy44fulk.png)
+>>
+>> GG: 19年8月末 https://www.1point3acres.com/bbs/thread-545594-1-1.html
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_115636.969i0e8a9l7.png)
+>>
+>> Airbnb: 19年8月末 https://www.1point3acres.com/bbs/thread-545761-1-1.html
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_115842.nxdr71oqwpi.png)
+>>
+>>
+>>
+>>
+>>
+>>
 
 此时找的实习是一年以后的实习。比如我想在22年5-8月实习，那么就要提前差不多一年21年**7月底**linkedin上四处加人求内推
 
