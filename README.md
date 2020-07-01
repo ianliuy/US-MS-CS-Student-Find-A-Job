@@ -48,7 +48,7 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 >>**FB**: 19年7月末 https://www.1point3acres.com/bbs/thread-539903-1-1.html
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_121649.72y4guhudq5.png)
->>PS: 此大佬在18年也发过一个fb招聘的帖子，下面的补充内容从8-3延续到10-22，能获得不少有用信息，非常精彩，推荐观摩: https://www.1point3acres.com/bbs/thread-434677-1-1.html
+>>PS: 此大佬在18年也发过一个fb招聘的帖子，下面的补充内容从8-3延续到10-22，能看到**随着时间的发展秋招的实时进度**，非常精彩！: https://www.1point3acres.com/bbs/thread-434677-1-1.html
 >>
 >> **FB** update: 2019年7月8号就已经开始了 https://www.1point3acres.com/bbs/thread-535937-1-1.html
 >>
