@@ -25,29 +25,29 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 >>
 >>请自行搜索"New Grad" + "内推" + "岗位 开放" 等关键词 + "site:1point3acres.com"，必要时使用google的search tools来restrict time.
 >>
->> Vmware: 19年7月底 https://www.1point3acres.com/bbs/thread-540378-1-1.html
+>> **Vmware**: 19年7月底 https://www.1point3acres.com/bbs/thread-540378-1-1.html
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_120129.oz4j48pxtua.png)
 >>
->> Uber: 19年9月初 https://www.1point3acres.com/bbs/thread-547399-1-1.html
+>> **Uber**: 19年9月初 https://www.1point3acres.com/bbs/thread-547399-1-1.html
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_120238.6p2wgcc1g58.png)
 >>
->> Lyft: 19年8月末 https://www.1point3acres.com/bbs/thread-545351-1-1.html
+>> **Lyft**: 19年8月末 https://www.1point3acres.com/bbs/thread-545351-1-1.html
 >>![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_120338.8hewgzvwx4q.png)
 >>
->> GG: 19年8月末 https://www.1point3acres.com/bbs/thread-545594-1-1.html
+>> **GG**: 19年8月末 https://www.1point3acres.com/bbs/thread-545594-1-1.html
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_120431.bqtbl6af12a.png)
 >>
->> Airbnb: 19年8月末 https://www.1point3acres.com/bbs/thread-545761-1-1.html
+>> **Airbnb**: 19年8月末 https://www.1point3acres.com/bbs/thread-545761-1-1.html
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_120529.idm21tookpg.png)
 >>
->>FB: 19年7月末 https://www.1point3acres.com/bbs/thread-539903-1-1.html
+>>**FB**: 19年7月末 https://www.1point3acres.com/bbs/thread-539903-1-1.html
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_121649.72y4guhudq5.png)
 >>PS: 此大佬在18年也发过一个fb招聘的帖子，下面的补充内容从8-3延续到10-22，能获得不少有用信息，非常精彩，推荐观摩: https://www.1point3acres.com/bbs/thread-434677-1-1.html
 >>
->> FB update: 2019年7月8号就已经开始了 https://www.1point3acres.com/bbs/thread-535937-1-1.html
+>> **FB** update: 2019年7月8号就已经开始了 https://www.1point3acres.com/bbs/thread-535937-1-1.html
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_124302.s4apw3r1xp.png)
 >>
->> Amazon: 19年8月初/中旬 https://www.1point3acres.com/bbs/thread-542625-1-1.html
+>> **Amazon**: 19年8月初/中旬 https://www.1point3acres.com/bbs/thread-542625-1-1.html
 >>![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_122335.hcu1xercpvr.png)
 >>
 >> 
