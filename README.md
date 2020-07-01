@@ -21,7 +21,7 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 >
 >当然也不是说你11月开始找就找不到，能早就早。不管是在实习还是干嘛，消息灵通点并且能随时投入战斗就行了。
 >
->> 我的补充：19年大约在8月放出New Grad岗位
+>> **我的补充：19年大约在8月放出New Grad岗位**
 >>
 >>请自行搜索"New Grad" + "内推" + "岗位 开放" 等关键词 + "site:1point3acres.com"，必要时使用google的search tools来restrict time.
 >>
