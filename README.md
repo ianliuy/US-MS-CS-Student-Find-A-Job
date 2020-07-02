@@ -1,18 +1,6 @@
 # US-MS-CS-Student-Find-A-Job
 A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp; OPT policies and so on!
 
-
-> <details>
-> 
-> <summary><b> What makes your Markdown script looks sooo cool? I want to learn more </b></summary>
-> 
-> :
-> 
-> Tables in Markdown can make your data more methodical. Here is an [official guide](https://help.github.com/en/github/writing-on-github/organizing-information-with-tables).
-> 
-> You can insert HTML tag based on [Github flavored Markdown](https://github.github.com/gfm/#html-blocks), Here is some [discussion](https://github.com/github/markup/issues/245#issuecomment-145948592) about it.
-> 
-> </details>
 ----
 
 # 地里的小伙伴们 baba mama们 给个star或fork吧。。。求求啦
