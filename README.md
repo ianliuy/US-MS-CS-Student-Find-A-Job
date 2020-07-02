@@ -25,7 +25,7 @@ A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp
 
 一般公司7月份到12月是秋招时间，7月岗位内推大规模放出，内推/网申后一周/一月排面试，什么时候结束看面试进度。
 
->引用一下地里的帖子：https://www.1point3acres.com/bbs/thread-523163-1-1.html
+> <b>引用一下地里的帖子</b>：https://www.1point3acres.com/bbs/thread-523163-1-1.html 
 >
 >说说我还有印象的几个公司18年秋招初期的情况。
 >
@@ -39,7 +39,7 @@ A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp
 >
 >当然也不是说你11月开始找就找不到，能早就早。不管是在实习还是干嘛，消息灵通点并且能随时投入战斗就行了。
 >
->> **我的补充：19年大约在8月放出New Grad岗位**
+>> <details><summary><b>我的补充</b>：19年大约在<b>8月</b>放出New Grad岗位</summary>
 >>
 >>请自行搜索"New Grad" + "内推" + "岗位 开放" 等关键词 + "site:1point3acres.com"，必要时使用google的search tools来restrict time.
 >>
@@ -66,6 +66,7 @@ A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp
 >>**FB**: 19年7月末 https://www.1point3acres.com/bbs/thread-539903-1-1.html
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112905.brpcxbhtu0p.png)
+>>
 >>PS: 此大佬在18年也发过一个fb招聘的帖子，下面的补充内容从8-3延续到10-22，能看到**随着时间的发展秋招的实时进度**，非常精彩！: https://www.1point3acres.com/bbs/thread-434677-1-1.html
 >>
 >> **FB** update: 2019年7月8号就已经开始了 https://www.1point3acres.com/bbs/thread-535937-1-1.html
@@ -74,9 +75,9 @@ A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp
 >>
 >> **Amazon**: 19年8月初/中旬 https://www.1point3acres.com/bbs/thread-542625-1-1.html
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113148.81jvy1qn88a.png)
->
->> 另外一位用户的补充：https://www.1point3acres.com/bbs/thread-631642-1-1.html
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113148.81jvy1qn88a.png) </details>
+> 
+>> <details> <summary><b>另外一位用户的补充</b>：https://www.1point3acres.com/bbs/thread-631642-1-1.html </summary>
 >>
 >> 给你一个去年（2019年）我找工作的data point：
 >>
@@ -90,12 +91,9 @@ A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp
 >>
 >>不是刷地理，地理没有第一手的求职信息。打开Google job search的alert 和领英的job alert，设置关键词 new graduate/ recent grad sde，都是学cs的人了。。这些都是基本操作把。。。
 >>
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113732.blydgf4kgyn.png)</details>
 >>
->>
->>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113732.blydgf4kgyn.png)
->>
->>
+> 
 
 
 此时找的实习是一年以后的实习。比如我想在22年5-8月实习，那么就要提前差不多一年21年**7月底**linkedin上四处加人/地里求内推
@@ -166,7 +164,6 @@ https://academics.usc.edu/calendar/academic-calendar-2021-2022/ ，不同学校�
 
 * 5月后 毕业 **full-time**
 
-
 总结：
 
 记住黄金准则：“赶秋招”
@@ -178,6 +175,8 @@ https://academics.usc.edu/calendar/academic-calendar-2021-2022/ ，不同学校�
 所以即使来美不打算找工作，或者没想好找不找工作，我也建议你**对找工作的时间节点了然于胸**，这也是本文写作的目的。
 
 因为什么都不了解的话某时候突然想开始找工作了，那时候很很很很（省略n个很）有可能**已经晚了**。
+
+情景分析：
 
 假设A是一个CS大校（cmu/ucsd/usc/neu）的刚入学的学生，开学后很朴素地想**先上一学期课**体验体验美国生活，找工作什么的以后再说。11月份A突然发现同学在朋友圈晒出了intern offer，然后A怦然心动，开始着手找工作，搜集找工信息+刷题，但是因为没有规划过，还没刷过leetcode几道题。
 
@@ -194,6 +193,7 @@ A这种情况大概率是很难找到工作的，不论到了11月份大公司�
 
 如果去年秋招没上岸，那么自己再努力，刷题再多再熟练，head count没有了就是没有了。
 ```
+
 
 ## 4. 添加找工作过程的 Timeline：以21spring，两年项目为例
 
