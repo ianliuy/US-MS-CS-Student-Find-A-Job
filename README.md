@@ -1,5 +1,5 @@
 # US-MS-CS-Student-Find-A-Job
-A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT policies and so on!
+A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp; OPT policies and so on!
 
 ----
 
@@ -236,7 +236,6 @@ A这种情况大概率是很难找到工作的，不论到了11月份大公司�
 
 *“Remember the Golden Rule: Those who have the gold make the rules.” - American Proverb*
 
-未完
 
 ----
 
