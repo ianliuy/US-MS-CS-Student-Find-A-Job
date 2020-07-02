@@ -156,7 +156,7 @@ https://academics.usc.edu/calendar/academic-calendar-2021-2022/ ，不同学校�
 
 * 5月后 毕业 **full-time**
 
-总结：
+### **总结**：
 
 记住黄金准则：“赶秋招”
 
@@ -168,7 +168,7 @@ https://academics.usc.edu/calendar/academic-calendar-2021-2022/ ，不同学校�
 
 因为什么都不了解的话某时候突然想开始找工作了，那时候很很很很（省略n个很）有可能**已经晚了**。
 
-情景分析：
+### **情景分析**：
 
 假设A是一个CS大校（cmu/ucsd/usc/neu）的刚入学的学生，开学后很朴素地想**先上一学期课**体验体验美国生活，找工作什么的以后再说。11月份A突然发现同学在朋友圈晒出了intern offer，然后A怦然心动，开始着手找工作，搜集找工信息+刷题，但是因为没有规划过，还没刷过leetcode几道题。
 
