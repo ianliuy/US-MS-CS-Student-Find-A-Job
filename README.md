@@ -63,14 +63,25 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 >> **Amazon**: 19年8月初/中旬 https://www.1point3acres.com/bbs/thread-542625-1-1.html
 >>
 >>![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_122335.hcu1xercpvr.png)
+>
+>> 另外一位用户的补充：https://www.1point3acres.com/bbs/thread-631642-1-1.html
 >>
->> 
+>> 给你一个去年我找工作的data point：
+>>
+>> dropbox是去年八月初开的 -> 我一开就内推了，9月底才拿到oa 那个时候已经几乎招满了
+>>
+>> airbnb是去年八月底开的 -> 同一开就内推，三个月之后据信
+>>
+>> pinterest是去年八月底开的 -> 同一开就内推，至今没有据信
+>>
+>> google是去年八月底开的 -> 同一开就内推，9月底oa
+>>
+>>不是刷地理，地理没有第一手的求职信息。打开Google job search的alert 和领英的job alert，设置关键词 new graduate/ recent grad sde，都是学cs的人了。。这些都是基本操作把。。。
 >>
 >>
 >>
 >>
->>
->>
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_110051.yi060wd7cw.png)
 >>
 >>
 
