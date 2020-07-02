@@ -37,32 +37,32 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 >>
 >> **Uber**: 19年9月初 https://www.1point3acres.com/bbs/thread-547399-1-1.html
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112246.aqk5kwhgvx.png)
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113839.vl7ng3bi1n9.png)
 >>
 >> **Lyft**: 19年8月末 https://www.1point3acres.com/bbs/thread-545351-1-1.html
 >>
->>![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_120338.8hewgzvwx4q.png)
+>>![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112453.jiqud4se8r.png)
 >>
 >> **GG**: 19年8月末 https://www.1point3acres.com/bbs/thread-545594-1-1.html
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_120431.bqtbl6af12a.png)
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112612.95qaq4eme7.png)
 >>
 >> **Airbnb**: 19年8月末 https://www.1point3acres.com/bbs/thread-545761-1-1.html
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_120529.idm21tookpg.png)
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112740.1iewuq1hoc6.png)
 >>
 >>**FB**: 19年7月末 https://www.1point3acres.com/bbs/thread-539903-1-1.html
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_121649.72y4guhudq5.png)
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112905.brpcxbhtu0p.png)
 >>PS: 此大佬在18年也发过一个fb招聘的帖子，下面的补充内容从8-3延续到10-22，能看到**随着时间的发展秋招的实时进度**，非常精彩！: https://www.1point3acres.com/bbs/thread-434677-1-1.html
 >>
 >> **FB** update: 2019年7月8号就已经开始了 https://www.1point3acres.com/bbs/thread-535937-1-1.html
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_124302.s4apw3r1xp.png)
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113030.m496rm6tmrl.png)
 >>
 >> **Amazon**: 19年8月初/中旬 https://www.1point3acres.com/bbs/thread-542625-1-1.html
 >>
->>![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_122335.hcu1xercpvr.png)
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113148.81jvy1qn88a.png)
 >
 >> 另外一位用户的补充：https://www.1point3acres.com/bbs/thread-631642-1-1.html
 >>
@@ -81,7 +81,7 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 >>
 >>
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_110051.yi060wd7cw.png)
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113732.blydgf4kgyn.png)
 >>
 >>
 
@@ -167,11 +167,11 @@ https://academics.usc.edu/calendar/academic-calendar-2021-2022/ ，不同学校�
 
 因为什么都不了解的话某时候突然想开始找工作了，那时候很很很很（省略n个很）有可能**已经晚了**。
 
-假设A是一个CS大校（cmu/ucsd/usc/neu）的刚入学的学生，开学后什么也不懂就想先上一学期课体验体验美国生活。11月份A突然发现同学在朋友圈晒出了intern offer，然后A怦然心动跃跃欲试，但是因为没有规划过还没刷过leetcode几道题。
+假设A是一个CS大校（cmu/ucsd/usc/neu）的刚入学的学生，开学后很朴素地想**先上一学期课**体验体验美国生活，找工作什么的以后再说。11月份A突然发现同学在朋友圈晒出了intern offer，然后A怦然心动，开始着手找工作，搜集找工信息+刷题，但是因为没有规划过，还没刷过leetcode几道题。
 
-A基本不用尝试了，大概率是**找不到**工作的，且不论到了11月份大公司已经经过3个月招人还有多少**坑位**了，就算面试的准备，刷找工作最低最低最低（省略n个最低）限度的，150道leetcode题，一天5道都需要1个月。这个时候零基础开始已经**太晚了**。
+A这种情况大概率是很难找到工作的，不论到了11月份大公司已经**经过3个月招人**还有多少坑位，就算面试的准备，刷找工作最低最低（省略n个最低）限度的，150道leetcode题，一天5道都需要1个月。这个时候零基础开始已经**有点晚了**。
 
-如果A看过这篇文章，那么A就不会做出这个吃力不讨好的决定了。这就是这篇文章存在的意义：可能不能给你**做什么**的动力，但是能明确给你**不做什么**的原因。
+如果A看过这篇文章，那么A可能就不会做出找工作的决定了。这就是这篇文章存在的意义：可能不能给**做什么**的动力，但是能给**不做什么**的原因。
 
 ```
 今年的covid19是一个极端的例子可以说明“极度季节性”：
