@@ -29,6 +29,7 @@ A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp
 >
 >> <details><summary><b>我的补充</b>：19年大约在<b>8月</b>放出New Grad岗位</summary>
 >>
+>>
 >>请自行搜索"New Grad" + "内推" + "岗位 开放" 等关键词 + "site:1point3acres.com"，必要时使用google的search tools来restrict time.
 >>
 >> **Vmware**: 19年7月底 https://www.1point3acres.com/bbs/thread-540378-1-1.html
@@ -66,6 +67,7 @@ A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113148.81jvy1qn88a.png) </details>
 > 
 >> <details> <summary><b>另外一位用户的补充</b>：https://www.1point3acres.com/bbs/thread-631642-1-1.html </summary>
+>>
 >>
 >> 给你一个去年（2019年）我找工作的data point：
 >>
