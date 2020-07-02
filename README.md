@@ -33,11 +33,11 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 >>
 >> **Vmware**: 19年7月底 https://www.1point3acres.com/bbs/thread-540378-1-1.html
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_120129.oz4j48pxtua.png)
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112019.nq9ujtg68n.png)
 >>
 >> **Uber**: 19年9月初 https://www.1point3acres.com/bbs/thread-547399-1-1.html
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200701_120238.6p2wgcc1g58.png)
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112246.aqk5kwhgvx.png)
 >>
 >> **Lyft**: 19年8月末 https://www.1point3acres.com/bbs/thread-545351-1-1.html
 >>
@@ -66,7 +66,7 @@ A tutorial on how to find a job elegantly. Timeline, Preparation, CPT &amp; OPT 
 >
 >> 另外一位用户的补充：https://www.1point3acres.com/bbs/thread-631642-1-1.html
 >>
->> 给你一个去年我找工作的data point：
+>> 给你一个去年（2019年）我找工作的data point：
 >>
 >> dropbox是去年八月初开的 -> 我一开就内推了，9月底才拿到oa 那个时候已经几乎招满了
 >>
