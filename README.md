@@ -122,7 +122,7 @@ A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp
 注：~~详细时间可以参考校历
 https://academics.usc.edu/calendar/academic-calendar-2021-2022/ ，不同学校有不同规定。~~
 
-经同学提醒，Vietribi graduate student的academic calendar在这里：https://viterbigrad.usc.edu/ ，我谷歌了好久才搜出来，隐藏的真深
+经同学提醒，Viteribi graduate student的academic calendar在这里：https://viterbigrad.usc.edu/ 
 ```
 一次实习，一次全职，好像很完美。
 但是这个过程是不完整的，
