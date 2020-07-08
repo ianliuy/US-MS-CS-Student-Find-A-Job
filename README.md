@@ -84,7 +84,26 @@ A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113732.blydgf4kgyn.png)</details>
 >>
 > 
-
+>> <details> <summary><b>Linkedin朋友真实经历</b>（入学第一个暑假在amazon intern）</summary>
+>>
+>>
+>> 1. 开始刷题的时间：
+>>
+>> * 开始刷题： 我是转专业的，所以开始的比较早，大概**3月份**开始刷，刷得比较慢，到找到实习刷了300+题吧。
+>>
+>> * 注：这里的`三月份`结合语境看应该是秋招前的三月份，也就是暑期实习前**一年零二个月**的`三月份`
+>>
+>> 2. 开始找内推/网申的时间：
+>>
+>> * 申请基本上是投的越早越好，大家都是职位一放出就投，基本上**8月份**就开始。
+>>
+>> 3. 结束面试的时间：
+>>
+>> * 结束面试这个说不准的，我是春招才找到的实习
+>>
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200708_104848.h6wozi2g40u.png)
+>>
+>
 
 此时找的实习是一年以后的实习。比如我想在22年5-8月实习，那么就要提前差不多一年21年**7月底**linkedin上四处加人/地里求内推
 
