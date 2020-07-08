@@ -101,7 +101,7 @@ A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp
 >>
 >> * 结束面试这个说不准的，我是春招才找到的实习
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200708_104848.h6wozi2g40u.png)
+>> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200708_111434.5ssa2s5hkfc.png)
 >>
 >
 
