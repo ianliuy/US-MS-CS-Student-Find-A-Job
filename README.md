@@ -113,7 +113,7 @@ A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp
 
 那些刚刚Master入学9/10月份就拿到明年intern offer的同学就是这么干的。
 
-**Hierarchy**: 美国大公司实习＞美国小公司实习＞国内知名企业实习＞＞＞学校RA/TA
+**北美hr认知度排序**: 美国知名企业实习 ＞≈ 美国有名企业实习 ＞≈ 中国/印度/.../新加坡知名企业实习 ＞＞ 学校RA/TA
 
 ## 2. Timeline：以21fall，2年项目为例
 
