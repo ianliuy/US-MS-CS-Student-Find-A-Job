@@ -1,5 +1,4 @@
-# US-MS-CS-Student-Find-A-Job
-A collection on **How to Find A Job Elegantly**. Timeline, Preparation, CPT &amp; OPT policies and so on!
+# aaa
 
 ----
 
