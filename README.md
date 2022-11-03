@@ -1,5 +1,13 @@
 # US-MS-CS-Student-Find-A-Job
 
+> 广告😊
+> 
+> 我的简历模板：https://github.com/ianliuy/Resume
+> 
+> 结果：收到35+ OA，同龄人求职者中前列
+> 
+> 发OA的部分公司：Amazon, TikTok, HRT, Citadel, Optiver, Facebook (now Meta), Databricks, Salesforce, Riot, Goldman Sachs, JPMorgan Chase, etc.
+
 ----
 
 # 地里的小伙伴们 baba mama们 给个star或fork吧。。。求求啦
