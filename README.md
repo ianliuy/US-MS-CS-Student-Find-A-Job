@@ -1,6 +1,6 @@
 # US-MS-CS-Student-Find-A-Job
 
-> 广告😊
+> **广告** 😊
 > 
 > 我的简历模板：https://github.com/ianliuy/Resume
 > 
